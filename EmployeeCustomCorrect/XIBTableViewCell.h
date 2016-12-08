@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+
+///iiii
 @interface XIBTableViewCell : UITableViewCell
 @property (weak, nonatomic) IBOutlet UILabel *lblEmpname;
 
